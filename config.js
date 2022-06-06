@@ -1,4 +1,4 @@
-const CONFIG = {
+const CONFIG = {Gửi Ánh}
     introTitle: 'Ánh ơi!',
     introDesc: `Ánh à :3`,
     btnIntro: 'hihi',
